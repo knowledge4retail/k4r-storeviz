@@ -1,0 +1,6 @@
+{
+    "DT_API_GRAPHQL_ENDPOINT": "https://dt-api.sandbox.knowledge4retail.org/k4r/graphql",
+    "BACKGROUND_COLOR": "#16161d",
+    "OFFSET_TO_BOTTOM_LEFT": true,
+    "RENDER_TEXTURE": false
+}

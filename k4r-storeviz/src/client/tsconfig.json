@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "module": "esnext",
+        "moduleResolution": "node",
+        "strict": true,
+        "strictPropertyInitialization": false,
+        "paths": {
+            "three/examples/jsm/libs/dat.gui.module": [
+                "../../node_modules/@types/dat.gui"
+            ]
+        }
+    },
+    "include": [
+        "**/*.ts"
+    ]
+}
